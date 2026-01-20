@@ -11,7 +11,7 @@ col1, col2 = st.columns([1, 2])
 
 with col1:
     # 본인의 사진이나 캐릭터 이미지를 넣으세요.
-    st.image("https://i.pinimg.com/originals/8c/e6/2a/8ce62a466e9b7798bdbbf88439545a9d.gif", 
+    st.image("https://i.namu.wiki/i/_HHTYdKOuG6QdskbyW5ZwepiZw3mplg47y7mA21SEezw96xd2hrzF-JY2euBBKOBRky8Jv4Rb1qv0My_t0U1VQ.webp", 
              caption="나를 나타내는 사진",
              use_container_width=True)
 
